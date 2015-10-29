@@ -1,0 +1,7 @@
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\UnitTestProject1\bin\Debug\ForgetfulJohny-CodeWars.exe
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\UnitTestProject1\bin\Debug\ForgetfulJohny-CodeWars.pdb
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\UnitTestProject1\obj\Debug\ForgetfulJohny-CodeWars_Tests.csprojResolveAssemblyReference.cache
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,6 @@
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\ForgetfulJohny-CodeWars\bin\Debug\ForgetfulJohny-CodeWars.exe.config
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\ForgetfulJohny-CodeWars\bin\Debug\ForgetfulJohny-CodeWars.exe
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\ForgetfulJohny-CodeWars\bin\Debug\ForgetfulJohny-CodeWars.pdb
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\ForgetfulJohny-CodeWars\obj\Debug\ForgetfulJohny-CodeWars.exe
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\ForgetfulJohny-CodeWars\obj\Debug\ForgetfulJohny-CodeWars.pdb
+c:\users\candace\documents\visual studio 2013\Projects\ForgetfulJohny-CodeWars\ForgetfulJohny-CodeWars\obj\Debug\ForgetfulJohny-CodeWars.csprojResolveAssemblyReference.cache
